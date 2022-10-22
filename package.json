@@ -1,8 +1,8 @@
 {
-  "name": "cryptt",
+  "name": "kryptt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atharvakhule-12.github.io/kryptt/",
+  "homepage": "https://AtharvaKhule-12.github.io/kryptt/",
   "dependencies": {
     "@coreui/react-chartjs": "^2.1.0",
     "@emotion/react": "^11.10.4",
