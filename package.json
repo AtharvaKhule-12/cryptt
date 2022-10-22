@@ -2,7 +2,7 @@
   "name": "cryptt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kryptt.com",
+  "homepage": "https://atharvakhule-12.github.io/kryptt.com",
   "dependencies": {
     "@coreui/react-chartjs": "^2.1.0",
     "@emotion/react": "^11.10.4",
